@@ -220,3 +220,9 @@ Say the word and I’ll build it.
   
 ## E
 * Jupyter [and](https://abikesa.github.io/pystata/intro.html) Stata
+
+## F
+* Perhaps [delete](https://abikesa.github.io/generalize/) this
+
+## G
+* May wish to [share](https://abikesa.github.io/how-about-stata/) with students, next time

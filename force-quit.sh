@@ -1,0 +1,2 @@
+killall StataMP
+killall Stata
